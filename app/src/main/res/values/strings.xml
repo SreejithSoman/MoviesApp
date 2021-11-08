@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Romantic Comedy</string>
+    <string name="some_error">Some error occurred !</string>
+    <string name="fetch_movies_error">No movies found</string>
+    <string name="button_retry">Retry</string>
+    <string name="search_hint">Search movies</string>
+</resources>
